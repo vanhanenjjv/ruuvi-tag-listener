@@ -10,7 +10,7 @@ The program takes one parameter which is the path where the socket is bound to.
 ./ruuvi-tag-listener <PATH>
 ```
 
-To test that the program works you can use the netcat (nc) utility to receive sensor data from the socket.
+To test that the program works you can use the [netcat (nc)](https://en.wikipedia.org/wiki/Netcat) utility to receive sensor data from the socket.
 
 ```
 nc -U <PATH>
