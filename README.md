@@ -1,4 +1,4 @@
-# RuuviTag Listener [![Build](https://github.com/vanhanenjjv/ruuvi-tag-listener/actions/workflows/build.yml/badge.svg)](https://github.com/vanhanenjjv/ruuvi-tag-listener/actions/workflows/build.yml)
+# RuuviTag Listener [![Build](https://github.com/vanhanenjjv/ruuvi-tag-listener/actions/workflows/build.yml/badge.svg)](https://github.com/vanhanenjjv/ruuvi-tag-listener/actions/workflows/build.yml) <img src="https://hit-counter.vanhanen.workers.dev?tag=github|vanhanenjjv|ruuvi-tag-listener" />
 
 A small program to listen for [RuuviTag](https://ruuvi.com) sensor data. It doesn't do anything fancy with the data and instead uses a [Unix domain socket](https://systemprogrammingatntu.github.io/mp2/unix_socket.html) to forward it to other programs to be processed further.
 
